@@ -1,0 +1,12 @@
+body{
+pointer-events: auto !important;
+background-size: 100% !important;
+opacity: 0.90 !important;
+background-position: 0 0 !important;
+background-image: url('https://br.pinterest.com/pin/2462974789105410/sent/?invite_code=632f2499dc594510841765cdf87233be&sender=893261044749787693&sfo=1');
+content: '';
+position: absolute;
+z-index: 999;
+width: 100%;
+background-repeat: no-repeat;
+}

@@ -1,0 +1,46 @@
+body {
+    background-color: darkorange;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+}
+
+ul,
+ol {
+    text-align: left;
+    margin: 0 auto
+}
+
+p {
+    font-family: arial;
+}
+
+h1 {
+    color: white;
+    font-family: arial;
+    font-size: 30px;
+}
+
+h3 {
+    font-family: arial;
+}
+
+h2 {
+    font-family: arial;
+    color: red
+}
+
+li {
+    font-size: 18px;
+}
+
+ol {
+    font-size: 18px;
+}
+
+p {
+    font-size: 20px;
+    font-family: arial;
+}
